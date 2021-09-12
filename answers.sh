@@ -38,7 +38,6 @@ touch Homework/POL141/Essay.txt
 ls ..
 
 # Task 12
-: '
 Type your vim/nano customizations below:
 :set showmatch
 :set number
